@@ -1,7 +1,5 @@
 # New Site Template
 
-[TODO. There will be project description]
+Just a bootstrap jumbotron template with all dependencies
+ in folder 'static'
 
-# Project Goals
-
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
